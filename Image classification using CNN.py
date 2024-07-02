@@ -345,13 +345,7 @@ image = image_extraction(df["image_url"][2])
 plt.imshow(image) 
 
 
-# In[48]:
 
-
-df
-
-
-# In[ ]:
 
 
 
